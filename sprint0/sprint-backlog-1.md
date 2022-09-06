@@ -1,6 +1,6 @@
 [*Ce travail sera évalué directement sur GH Projects par votre enseignant (aucune remise requise, mais assurez-vous que les éléments de remise sont complets sur GH Projects à la date limite de remise).*]
 
-# Sprint Backlog #1
+# Backlog du sprint #1
 
 ### Éléments de remise
 --- 

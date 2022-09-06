@@ -1,4 +1,4 @@
-[*Ce travail sera évalué directement sur GH Projects ou Google Docs par votre enseignant : faites la remise d'un lien au document à évaluer sur Omnivox et assurez-vous que les éléments de remise sont complets à la date limite de remise.*]
+[*Ce travail sera évalué directement sur GH Projects ou Google Docs par votre enseignant : faites la remise d'un lien au document à évaluer dans le canal privé de votre équipe sur l'équipe Teams du cours et assurez-vous que les éléments de remise sont complets à la date limite de remise.*]
 
 # Backlog du produit
 

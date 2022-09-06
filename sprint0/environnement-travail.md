@@ -1,6 +1,6 @@
 [*Ce travail sera évalué directement en classe par votre enseignant (aucune remise requise).*]
 
-# Installer et organiser votre environnement de travail.
+# Installer et organiser votre environnement de travail
 
 ### 1. Dépôt GitHub pour le code source d'équipe
 --- 

@@ -7,8 +7,8 @@
 ---
 
 À l'issue de ce sprint, la mise en page de l'interface utilisateur du site Web doit être en grande partie complétée et le site Web doit être déployé sur la plateforme d'hébergement approuvée (*SiteGround*) : 
-* Les modèles du thème WP (ou encore les composants *React* consommant l'API WP) sont développés suffisemment pour représenter fidèlement la structure de votre site Web (*gabarits* WP tels que `front-page.php`, `header.php`, `footer.php`, `functions.php`, `page.php`, etc. ou composants adéquats dans le cas d'une IU développée avec *React*) ;
-* Le formattage de l'interface utilisateur est complété à l'aide des feuilles de style (CSS/Sass) et le résultat est conforme au design du site Web spécifié dans les maquettes graphiques ;
+* Les modèles du thème WP (ou encore les composants *React* consommant l'API WP) sont développés suffisamment pour représenter fidèlement la structure de votre site Web (*gabarits* WP tels que `front-page.php`, `header.php`, `footer.php`, `functions.php`, `page.php`, etc. ou composants adéquats dans le cas d'une IU développée avec *React*) ;
+* Le formatage de l'interface utilisateur est complété à l'aide des feuilles de style (CSS/Sass) et le résultat est conforme au design du site Web spécifié dans les maquettes graphiques ;
 * Le site Web est déployé sur *SiteGround*.
 
 ---

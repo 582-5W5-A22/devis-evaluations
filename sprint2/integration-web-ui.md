@@ -20,7 +20,7 @@
    2) Respect des maquettes ; 
    3) Navigation fonctionnelle. 
 
-### **B) Codification CSS/Sass** (2 points)
+#### **B) Codification CSS/Sass** (2 points)
    1) Les fichiers de code source sont adéquatement commentés ;
    2) Originalité de la structure *Sass* ;
    3) La structure de dossiers permet de retrouver facilement les règles de styles des éléments de base, des composants et des écrans du site en général ;
@@ -28,7 +28,7 @@
    5) Vous utilisez les propriétés CSS de façon optimale ;
    6) Les stratégies de positionnement que vous utilisez permettent l'adaptabilité de vos pages aux différentes largeurs d'écran. Vous utilisez notamment le mode d'affichage *flex* et/ou *grid* pour atteindre cet objectif.
 
-### **C) Codification HTML/PHP/React** (2 points)
+#### **C) Codification HTML/PHP/React** (2 points)
    1) Les fichiers de code source sont adéquatement commentés ;
    2) Les médias sont intégrés avec la fonctionnalité *media* de WordPress et non pas manuellement dans un dossier non standard ;
    3) Vos modèles WP (ou composants *React*) sont bien structurés ;

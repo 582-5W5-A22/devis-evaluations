@@ -1,6 +1,6 @@
 [*Ce travail sera évalué directement sur GitHub et votre serveur Web d'hébergement du site Web **par votre enseignant** (aucune remise requise, mais assurez-vous que les éléments de remise sont complets sur GitHub et le serveur d'hébergement à la date limite de remise).*]
 
-## Programmation (UI et interactivité/animation) du site Web (5 points)
+## Programmation du site Web (UI et interactivité/animation) (5 points)
 
 ---
 ### Objectif général

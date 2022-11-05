@@ -1,4 +1,4 @@
-[*Remise individuelle exigée sur Omnivox le 29 novembre 2022 : **aucune remise en retard ne sera acceptée***]
+[*Remise individuelle exigée sur Omnivox le 27 novembre 2022 : **aucune remise en retard ne sera acceptée***]
 
 ## Évaluation des sites Web concurrents (*benchmarking*) (5 points)
 
@@ -7,7 +7,9 @@
 ---
 
 Chaque membre de votre équipe doit compléter cette évaluation individuellement.
+
 Utilisez le *test d'uilisabilité* distribué avec cet énoncé (document disponible sur Google Drive et lien disponible dans l'équipe Teams du cours) pour compléter l'évaluation du site Web d'une des équipes du cours. Les équipes sont attribuées aux étudiants dans une liste diffusée sur Teams. Vérifiez cette liste pour savoir lequel des sites Web vous devez évaluer dans votre test.
+
 Pour chacune des questions du test vous devez donner une note d'appéciation sur 5 (de 0 à 5). De plus, vous devez justifier/commenter votre note (points forst, points faibles, améliorations suggérées, etc.)
 
 ---
